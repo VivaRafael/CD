@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import matplotlib.pyplot as plt
 import matplotlib.colors as clrs
 
@@ -55,4 +49,3 @@ plt.rcParams['boxplot.meanprops.color'] = my_palette['purple']
 plt.rcParams['boxplot.meanprops.markeredgecolor'] = my_palette['purple']
 plt.rcParams['boxplot.meanprops.markerfacecolor'] = my_palette['purple']
 plt.rcParams['boxplot.medianprops.color'] = my_palette['green']
-
